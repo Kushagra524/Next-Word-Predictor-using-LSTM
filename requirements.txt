@@ -1,4 +1,4 @@
-tensorflow==2.16.1
+tensorflow
 pandas
 numpy
 scikit-learn
@@ -7,7 +7,7 @@ matplotlib
 streamlit
 ipykernel
 streamlit
-altair==4.2.2
+altair
 fastapi
 uvicorn
 pydantic
