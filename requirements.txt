@@ -1,8 +1,8 @@
-streamlit==1.32.0
-tensorflow-cpu==2.16.1
-numpy==1.23.5
-pandas==1.5.3
-nltk==3.8.1
-h5py==3.8.0
-protobuf==3.20.3
-keras==3.13.2
+streamlit
+tensorflow-cpu
+numpy
+panda
+nltk
+h5py
+protobuf
+keras
