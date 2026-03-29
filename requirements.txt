@@ -1,5 +1,7 @@
 streamlit
-tensorflow==2.15.0
+keras
+tf-keras
 numpy
 pandas
 nltk
+tensorflow==2.12.0
