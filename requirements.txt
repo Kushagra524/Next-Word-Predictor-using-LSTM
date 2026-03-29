@@ -1,7 +1,10 @@
-streamlit
-keras
-tf-keras
-numpy
-pandas
-nltk
+streamlit==1.32.0
 tensorflow==2.12.0
+keras==2.12.0
+numpy==1.23.5
+pandas==1.5.3
+nltk==3.8.1
+scikit-learn==1.2.2
+matplotlib==3.7.1
+h5py==3.8.0
+protobuf==3.20.3
