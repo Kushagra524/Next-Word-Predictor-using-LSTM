@@ -1,8 +1,9 @@
 streamlit
-tensorflow-cpu
+scikeras
+matplotlib
+tensorboard
+tensorflow==2.16.1
 numpy
-panda
+pandas
+scikit-learn
 nltk
-h5py
-protobuf
-keras
